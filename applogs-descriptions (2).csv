@@ -1,0 +1,48 @@
+,Desctiption
+logid,ID (serial number) of the data record (row) in the dataset
+,
+,
+,
+,
+,
+ts,The time - without a specific timezone - when the data is created. It is 10 hours behind Melbourne's time.
+,
+,
+,
+,
+,
+lat,The latitude position of the cyclist 
+,
+,
+,
+,
+,
+,
+lng,The longitude position of the cyclist 
+,
+,
+,
+,
+,
+,
+,
+message,The alert (referred to ID) given to the at given lat and lng position  
+,
+,
+,
+,
+,
+userid,Login ID used by the user during the test 
+,
+,
+,
+,
+,
+lap,Lap in which the alert is delivered to the user
+,
+,
+,
+,
+,
+,
+correct time,The ts converted to Melbourne time 
